@@ -8,14 +8,14 @@ This project is a visualizer for the N-Queens problem, built using HTML, CSS, an
 
 Features
 
-Interactive Chessboard: A visually appealing chessboard interface that updates in real-time as queens are placed.
+Interactive Chessboard:  A visually appealing chessboard interface that updates in real-time which shows the placement of queens
 
-Algorithm Visualization: Watch the backtracking algorithm in action as it tries to place queens, backtracks on conflicts, and finds solutions.
+Algorithm Visualization:  Watch the backtracking algorithm in action as it tries to place queens, backtracks on conflicts, and finds solutions.
 
-Multiple Solutions Display: Discover all possible solutions for a given board size (N).
+Multiple Solutions Display:  Discover all possible solutions for a given board size (N).
 
-Customizable Board Size: Easily set the size of the chessboard and see how the algorithm handles different scenarios.
+Customizable Board Size:  Easily set the size of the chessboard and see how the algorithm handles different scenarios.
 
-Control Panel: Adjust the speed of the visualization, start or pause the algorithm, and reset the board.
+Control Panel:  Adjust the speed of the visualization, and reset the board.
 
 
