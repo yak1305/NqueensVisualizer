@@ -5,6 +5,7 @@ The N-Queens problem is a classic combinatorial puzzle where the objective is to
 This project is a visualizer for the N-Queens problem, built using HTML, CSS, and JavaScript. It provides an interactive and intuitive way to explore the backtracking algorithm used to solve this problem, with a dynamic visual representation of the chessboard and the placement of queens.
 
 Features
+
 Interactive Chessboard: A visually appealing chessboard interface that updates in real-time as queens are placed.
 
 Algorithm Visualization: Watch the backtracking algorithm in action as it tries to place queens, backtracks on conflicts, and finds solutions.
