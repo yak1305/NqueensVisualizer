@@ -1,5 +1,7 @@
 N-Queens Visualizer
+
 Overview
+
 The N-Queens problem is a classic combinatorial puzzle where the objective is to place N queens on an N×N chessboard such that no two queens threaten each other. This means no two queens can share the same row, column, or diagonal.
 
 This project is a visualizer for the N-Queens problem, built using HTML, CSS, and JavaScript. It provides an interactive and intuitive way to explore the backtracking algorithm used to solve this problem, with a dynamic visual representation of the chessboard and the placement of queens.
